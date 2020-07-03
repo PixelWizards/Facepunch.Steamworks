@@ -1,7 +1,7 @@
 {
   "name": "com.facepunch.steamworks",
   "displayName": "Facepunch Steamworks",
-  "version": "0.1.0-preview.1",
+  "version": "2.3.3",
   "unity": "2018.4",
   "description": "Facepunch Steamworks Integration UPM Package",
   "category": null,
